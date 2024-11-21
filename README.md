@@ -1,6 +1,6 @@
 # DBA2024
 
-1. Analyzing the Energy Efficiency of Buildings
+Project: Analyze the Energy Efficiency of Buildings
 
 Description:
 
